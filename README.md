@@ -4,7 +4,7 @@
 After the pandemic left auto manufatures with silicon cips/Semiconductor shortages we'v seen car prices excelate by as much as 8-10% higer. Using the above mentioned data i utilized Matplotlib and Seaborn tools to visualize an array of subcategories of automobiles such as Fuel type,performance, horsepower, body type  to reach display trends and prefrences.
 
 
-Detailed descriptions of Car atributes and Manufactures sorted by Prices
+Detailed descriptions of Car atributes and Manufactures sorted by Prices.
 ![Screen Shot 2022-01-24 at 10 55 28 PM](https://user-images.githubusercontent.com/33403205/150908395-4e8e102d-16c7-4cfa-aa44-821a3dc1a0e5.png)
 ![Screen Shot 2022-01-24 at 10 55 41 PM](https://user-images.githubusercontent.com/33403205/150908401-72132575-af3c-4d3e-b209-69d9a66905c9.png)
 ![Screen Shot 2022-01-24 at 10 55 50 PM](https://user-images.githubusercontent.com/33403205/150908405-9b738361-fad8-43b6-a269-dd812bdf87db.png)
